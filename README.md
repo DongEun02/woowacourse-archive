@@ -34,6 +34,8 @@
 | 온보딩 - Gemini Canvas로 웹앱 만들기        | [PR-119](https://github.com/woowacourse/gemini-canvas-mission/pull/96)     |
 | 로또 Step 1        | [PR-443](https://github.com/woowacourse/javascript-lotto/pull/427)     |
 | 로또 Step 2        | [PR-461](https://github.com/woowacourse/javascript-lotto/pull/458)     |
+| TS + 학습법 튜닝       | [PR-19](https://github.com/woowacourse/ts-and-learning/pull/19)     |
+| 영화리뷰 Step 1        | [PR-285](https://github.com/woowacourse/javascript-movie-review/pull/285)     |
 
 ### 원정대 활동
 -  TDD 원정대
@@ -45,3 +47,5 @@
 | 1    | [우테코 8기 최종합격 후기](https://velog.io/@ehddms0517/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-8%EA%B8%B0-FE-%EC%B5%9C%EC%A2%85-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0)   
 | 2    | [우테코 8기 1~2주차 회고](https://velog.io/@ehddms0517/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-8%EA%B8%B0-FE-12%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
 | 3    | [우테코 8기 TDD 원정대 회고](https://velog.io/@ehddms0517/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-8%EA%B8%B0-FE-TDD-%EC%9B%90%EC%A0%95%EB%8C%80)
+| 4    | [우테코 8기 3~4주차 회고](https://velog.io/@ehddms0517/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-8%EA%B8%B0-FE-34%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
+| 5    | [JavaScript Fetch](https://velog.io/@ehddms0517/JavaScript-fetch)
