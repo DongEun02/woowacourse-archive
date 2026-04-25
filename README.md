@@ -36,9 +36,11 @@
 | 로또 Step 2        | [PR-461](https://github.com/woowacourse/javascript-lotto/pull/458)     |
 | TS + 학습법 튜닝       | [PR-19](https://github.com/woowacourse/ts-and-learning/pull/19)     |
 | 영화리뷰 Step 1        | [PR-285](https://github.com/woowacourse/javascript-movie-review/pull/285)     |
+| 영화리뷰 Step 2        | [PR-296](https://github.com/woowacourse/javascript-movie-review/pull/296)     |
 
 ### 원정대 활동
 -  TDD 원정대
+-  HTTP 클라이언트 원정대
 
 ## 🖋 블로그
 
@@ -49,3 +51,6 @@
 | 3    | [우테코 8기 TDD 원정대 회고](https://velog.io/@ehddms0517/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-8%EA%B8%B0-FE-TDD-%EC%9B%90%EC%A0%95%EB%8C%80)
 | 4    | [우테코 8기 3~4주차 회고](https://velog.io/@ehddms0517/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-8%EA%B8%B0-FE-34%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
 | 5    | [JavaScript Fetch](https://velog.io/@ehddms0517/JavaScript-fetch)
+| 6   | [우테코 8기 5~6주차 회고](https://velog.io/@ehddms0517/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-8%EA%B8%B0-FE-56%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
+| 7    | [우테코 8기 레벨1 회고](https://velog.io/@ehddms0517/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-8%EA%B8%B0-FE-%EB%A0%88%EB%B2%A81-%ED%9A%8C%EA%B3%A0)
+| 8    | [HTTP 클라이언트의 동작 원리](https://velog.io/@ehddms0517/Http-Client)
