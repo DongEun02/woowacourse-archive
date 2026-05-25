@@ -54,3 +54,28 @@
 | 6   | [우테코 8기 5~6주차 회고](https://velog.io/@ehddms0517/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-8%EA%B8%B0-FE-56%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
 | 7    | [우테코 8기 레벨1 회고](https://velog.io/@ehddms0517/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-8%EA%B8%B0-FE-%EB%A0%88%EB%B2%A81-%ED%9A%8C%EA%B3%A0)
 | 8    | [HTTP 클라이언트의 동작 원리](https://velog.io/@ehddms0517/Http-Client)
+
+## 🌱 레벨2 - REACT
+
+> 2026.04.27 ~ 2026.06.26
+
+### 레벨 목표
+
+- React 컴포넌트 설계부터 Express REST API까지, 하나의 기능을 UI에서 서버까지 수직으로 관통하는 풀스택 개발 사이클을 익힌다.
+
+### 미션 기록
+
+| 미션                | PR & Reviews                                                     |
+| ------------------ | ---------------------------------------------------------------- |
+| 페이먼츠 Step 1        | [PR-507](https://github.com/woowacourse/react-payments/pull/507)     |
+| 페이먼츠 Step 2        | [PR-534](https://github.com/woowacourse/react-payments/pull/534)     |
+| 페이먼츠 Step 3        | [PR-554](https://github.com/woowacourse/react-payments/pull/554)     |
+
+### 원정대 활동
+-  useEffect 원정대
+
+## 🖋 블로그
+
+| 순번 | 포스트                                                                                                                                                                                                         |
+| ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+| 1    | [자바스크립트가 상태를 기억하는 방법: 클로저](https://velog.io/@ehddms0517/%ED%81%B4%EB%A1%9C%EC%A0%80)   
