@@ -70,12 +70,18 @@
 | 페이먼츠 Step 1        | [PR-507](https://github.com/woowacourse/react-payments/pull/507)     |
 | 페이먼츠 Step 2        | [PR-534](https://github.com/woowacourse/react-payments/pull/534)     |
 | 페이먼츠 Step 3        | [PR-554](https://github.com/woowacourse/react-payments/pull/554)     |
+| 장바구니 Step 1        | [PR-4](https://github.com/woowacourse/shopping-cart-full-stack/pull/4)     |
+| 장바구니 리팩토링       | [PR-3](https://github.com/woowacourse/shopping-cart-refactoring/pull/3)     |
+| 장바구니 Step 2        | [PR-30](https://github.com/woowacourse/shopping-cart-full-stack/pull/30)     |
 
 ### 원정대 활동
 -  useEffect 원정대
+-  Tanstack Query로 API 요청 흐름 이해하기 (개인 원정대)
 
 ## 🖋 블로그
 
 | 순번 | 포스트                                                                                                                                                                                                         |
 | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 | 1    | [자바스크립트가 상태를 기억하는 방법: 클로저](https://velog.io/@ehddms0517/%ED%81%B4%EB%A1%9C%EC%A0%80)   
+| 2    | [React Compiler: 수동 최적화는 더 이상 필요없을까?](https://velog.io/@ehddms0517/React-Compiler-%EC%88%98%EB%8F%99-%EC%B5%9C%EC%A0%81%ED%99%94%EB%8A%94-%EB%8D%94-%EC%9D%B4%EC%83%81-%ED%95%84%EC%9A%94%EC%97%86%EC%9D%84%EA%B9%8C)   
+| 3    | [useEffect: 무한 루프 방지와 클린업](https://velog.io/@ehddms0517/useEffect-%EB%AC%B4%ED%95%9C-%EB%A3%A8%ED%94%84-%EB%B0%A9%EC%A7%80%EC%99%80-%ED%81%B4%EB%A6%B0%EC%97%85)   
