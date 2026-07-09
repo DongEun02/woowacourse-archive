@@ -73,6 +73,8 @@
 | 장바구니 Step 1        | [PR-4](https://github.com/woowacourse/shopping-cart-full-stack/pull/4)     |
 | 장바구니 리팩토링       | [PR-3](https://github.com/woowacourse/shopping-cart-refactoring/pull/3)     |
 | 장바구니 Step 2        | [PR-30](https://github.com/woowacourse/shopping-cart-full-stack/pull/30)     |
+| 장바구니 Step 3        | [PR-67](https://github.com/woowacourse/shopping-cart-full-stack/pull/67)     |
+| 장바구니 Step 4        | [PR-90](https://github.com/woowacourse/shopping-cart-full-stack/pull/90)     |
 
 ### 원정대 활동
 -  useEffect 원정대
