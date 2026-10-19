@@ -89,12 +89,33 @@
 | 3    | [useEffect: 무한 루프 방지와 클린업](https://velog.io/@ehddms0517/useEffect-%EB%AC%B4%ED%95%9C-%EB%A3%A8%ED%94%84-%EB%B0%A9%EC%A7%80%EC%99%80-%ED%81%B4%EB%A6%B0%EC%97%85)  
 | 4    | [레벨2 회고: 이젠 야생에 던져질 시간](https://velog.io/@ehddms0517/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-8%EA%B8%B0-FE-%EB%A0%88%EB%B2%A82-%ED%9A%8C%EA%B3%A0-%EC%9D%B4%EC%A0%A0-%EC%95%BC%EC%83%9D%EC%97%90-%EB%8D%98%EC%A0%B8%EC%A7%88-%EC%8B%9C%EA%B0%84) 
 
-## 🌱 레벨3 - 팀 프로젝트
+## 🌱 레벨3, 4 - 팀 프로젝트
 
-> 2026.07.13 ~ 2026.09.04
+> 2026.07.13 ~ 2026.11.13
+
+### 레벨 목표
+
+- 완성도 높은 결과물만 만드는 것이 아니라, 문제 발견부터 사용자 검증, 팀 구현, 피드백 반영까지 이어지는 제품 개발의 전체 흐름을 경험한다.
+
+### 프로젝트 - 총총
+
+- 스터디 리드가 운영 부담을 덜고, 함께하는 공부에 집중할 수 있도록 돕는 스터디 운영 서비스
+- Website : [chongchong](https://chongchong.kr)
+- Github : [Repository](https://github.com/woowacourse-teams/2026-ChongChong)
+
+### 미션 기록
+
+| 미션                | PR & Reviews                                                     |
+| ------------------ | ---------------------------------------------------------------- |
+| 로딩 성능 개선        | [PR-196](https://github.com/woowacourse/perf-basecamp/pull/196)     |
+| 렌더링 성능 개선 Step1      | [PR-130](https://github.com/woowacourse/rendering-basecamp/pull/130)     |
+| 렌더링 성능 개선 Step2      | [PR-152](https://github.com/woowacourse/rendering-basecamp/pull/152)     |
+| 렌더링 성능 개선 Step3      | [PR-188](https://github.com/woowacourse/rendering-basecamp/pull/188)     |
 
 ## 🖋 블로그
 
 | 순번 | 포스트                                                                                                                                                                                                         |
 | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 | 1    | [오픈소스 기여 도전기](https://velog.io/@ehddms0517/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EA%B8%B0%EC%97%AC-%EB%8F%84%EC%A0%84%EA%B8%B0-with-%EC%8B%A4%ED%8C%A8%ED%95%9C-%EC%84%9C%EB%B9%84%EC%8A%A4)   
+| 2    | [AI를 사용한 바이브 코딩](https://velog.io/@ehddms0517/%EC%9A%B0%ED%85%8C%EC%BD%94%EA%B0%80-%EB%B0%98%EB%9E%80%EA%B5%B0%EC%9D%B4-%EB%90%98%EB%9D%BC%EA%B8%B8%EB%9E%98-%EC%A7%84%EC%A7%9C-%EB%B0%98%EB%9E%80%ED%95%B4%EB%B4%84)  
+| 3    | [컴파일 검증은 무적이 아니다](https://velog.io/@ehddms0517/Toss-simplikit%EC%97%90-%EA%B8%B0%EC%97%AC%ED%95%B4%EB%B3%B4%EA%B8%B0-%EC%BB%B4%ED%8C%8C%EC%9D%BC-%EA%B2%80%EC%A6%9D%EC%9D%80-%EB%AC%B4%EC%A0%81%EC%9D%B4-%EC%95%84%EB%8B%88%EB%8B%A4)  
