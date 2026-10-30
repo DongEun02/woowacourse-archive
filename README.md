@@ -111,6 +111,7 @@
 | 렌더링 성능 개선 Step1      | [PR-130](https://github.com/woowacourse/rendering-basecamp/pull/130)     |
 | 렌더링 성능 개선 Step2      | [PR-152](https://github.com/woowacourse/rendering-basecamp/pull/152)     |
 | 렌더링 성능 개선 Step3      | [PR-188](https://github.com/woowacourse/rendering-basecamp/pull/188)     |
+| 접근성 개선      | [PR-187](https://github.com/woowacourse/a11y-airline/pull/187)     |
 
 ## 🖋 블로그
 
@@ -119,3 +120,8 @@
 | 1    | [오픈소스 기여 도전기](https://velog.io/@ehddms0517/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EA%B8%B0%EC%97%AC-%EB%8F%84%EC%A0%84%EA%B8%B0-with-%EC%8B%A4%ED%8C%A8%ED%95%9C-%EC%84%9C%EB%B9%84%EC%8A%A4)   
 | 2    | [AI를 사용한 바이브 코딩](https://velog.io/@ehddms0517/%EC%9A%B0%ED%85%8C%EC%BD%94%EA%B0%80-%EB%B0%98%EB%9E%80%EA%B5%B0%EC%9D%B4-%EB%90%98%EB%9D%BC%EA%B8%B8%EB%9E%98-%EC%A7%84%EC%A7%9C-%EB%B0%98%EB%9E%80%ED%95%B4%EB%B4%84)  
 | 3    | [컴파일 검증은 무적이 아니다](https://velog.io/@ehddms0517/Toss-simplikit%EC%97%90-%EA%B8%B0%EC%97%AC%ED%95%B4%EB%B3%B4%EA%B8%B0-%EC%BB%B4%ED%8C%8C%EC%9D%BC-%EA%B2%80%EC%A6%9D%EC%9D%80-%EB%AC%B4%EC%A0%81%EC%9D%B4-%EC%95%84%EB%8B%88%EB%8B%A4)  
+| 4    | [함수의 매개변수를 하나 추가하는데 실험까지 해봤어요](https://velog.io/@ehddms0517/%ED%95%A8%EC%88%98%EC%9D%98-%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98%EB%A5%BC-%ED%95%98%EB%82%98-%EC%B6%94%EA%B0%80%ED%95%98%EB%8A%94%EB%8D%B0-%EC%8B%A4%ED%97%98%EA%B9%8C%EC%A7%80-%ED%95%B4%EB%B4%A4%EC%96%B4%EC%9A%94)  
+| 5    | [총총 - 로딩 성능 개선](https://velog.io/@ehddms0517/%EC%B4%9D%EC%B4%9D-%EB%A1%9C%EB%94%A9-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0)  
+| 6    | [총총 - API 응답 검증](https://velog.io/@ehddms0517/%EC%B4%9D%EC%B4%9D-%EC%95%88%EC%A0%84%ED%95%9C-%EC%A0%9C%ED%92%88-%EB%A7%8C%EB%93%A4%EA%B8%B0-API-%EC%9D%91%EB%8B%B5-%EA%B2%80%EC%A6%9D)  
+| 7    | [총총 - Webpack으로 개발 환경부터](https://velog.io/@ehddms0517/%EC%B4%9D%EC%B4%9D-Webpack-%EB%B9%8C%EB%93%9C-%ED%99%98%EA%B2%BD-%EC%84%A4%EC%A0%95)  
+
